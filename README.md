@@ -1,4 +1,4 @@
-DS102.R11.2 - Bài thực hành lab01
+DS102.R11.2 - Bài thực hành lab01 
 
 Bài 1: Tìm hiểu và xây dựng thuật toán Newton-Raphson tìm điểm cực trị của một hàm thực vector sử dụng NumPy.
 
